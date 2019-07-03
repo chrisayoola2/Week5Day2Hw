@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week5Day2Hw</string>
+    <string name="enter_your_first_name">Enter your First Name</string>
+    <string name="enter_your_last_name">Enter your Last Name</string>
+    <string name="enter_your_address">Enter your Address</string>
+    <string name="enter_your_city">Enter Your CIty</string>
+    <string name="enter_your_state">Enter Your State</string>
+    <string name="enter_your_zip_code">Enter your Zip code</string>
+    <string name="submit">Submit</string>
+</resources>
